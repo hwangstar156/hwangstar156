@@ -37,7 +37,7 @@
 ### Online Judge 💻
 
 * BOJ: [hwangstar156](http://icpc.me/hwangstar156)
-  * solvedac: [hwangstar156](https://solved.ac/profile/kinetic27)
+  * solvedac: [hwangstar156](https://solved.ac/profile/hwangstar156)
   
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hwangstar156)](https://solved.ac/hwangstar156)
 
