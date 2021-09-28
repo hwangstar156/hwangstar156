@@ -1,16 +1,55 @@
-### Hi there 👋
+## hwangstar156 &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwangstar156%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!--
-**hwangstar156/hwangstar156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=hwangstar156's%20Github&fontSize=31)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p>
+  <em>
+    <strong>⚙국민대학교 전자시스템공학부 재학중⚙</strong> <br>
+    <b>front-end developer 희망..😀 
+  </em>  
+</p>
+
+![hwangstar156's github stats](https://github-readme-stats.vercel.app/api?username=hwangstar156&show_icons=true) 
+[![hwangstar156's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangstar156&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hwangstar156)
+    
+
+### Tech Stack🛠
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux saga-999999?style=flat-square&logo=redux-saga&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphQl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind Css-06B6D4?style=flat-square&logo=Tailwind Css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled component-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webpack-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/>
+
+  
+
+### Online Judge 💻
+
+* BOJ: [hwangstar156](http://icpc.me/hwangstar156)
+  * solvedac: [hwangstar156](https://solved.ac/profile/kinetic27)
+  
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hwangstar156)](https://solved.ac/hwangstar156)
+
+
+### Contacts 📫
+
+* Email: hwangstar156@gmail.com  
+
+  <!--<div align=center>-->  
+<br>
+<a href="https://velog.io/@hwangstar156" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="mailto:hwangstar156@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+  
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
