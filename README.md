@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/styled component-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Webpack-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/>
 
   
 
