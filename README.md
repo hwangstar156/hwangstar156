@@ -7,7 +7,10 @@
 <p>
   <em>
     <strong>⚙국민대학교 전자시스템공학부 재학중⚙</strong> <br>
-    <b>front-end developer 희망..😀 
+    <b>front-end developer 희망..😀
+      
+      
+     reading📖 : 자바스크립트 딥다이브, 리액트를 다루는 기술
   </em>  
 </p>
 
@@ -15,9 +18,9 @@
 [![hwangstar156's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangstar156&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hwangstar156)
     
 
-### Tech Stack🛠
+## Tech Stack🛠
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux saga-999999?style=flat-square&logo=redux-saga&logoColor=white"/>
@@ -29,12 +32,13 @@
   <img src="https://img.shields.io/badge/Tailwind Css-06B6D4?style=flat-square&logo=Tailwind Css&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled component-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <br>
+  
+#### studying...✏
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
 
-  
-
-### Online Judge 💻
+## Online Judge 💻
 
 * BOJ: [hwangstar156](http://icpc.me/hwangstar156)
   * solvedac: [hwangstar156](https://solved.ac/profile/hwangstar156)
@@ -42,7 +46,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hwangstar156)](https://solved.ac/hwangstar156)
 
 
-### Contacts 📫
+## Contacts 📫
 
 * Email: hwangstar156@gmail.com  
 
