@@ -6,7 +6,7 @@
 
 <p>
   <em>
-    <strong>⚙국민대학교 전자시스템공학부 재학중⚙</strong> <br>
+    <strong>⚙국민대학교 전자공학과 재학중⚙</strong> <br>
     <b>front-end developer 희망..😀
       
       
@@ -25,11 +25,9 @@
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux saga-999999?style=flat-square&logo=redux-saga&logoColor=white"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphQl&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind Css-06B6D4?style=flat-square&logo=Tailwind Css&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled component-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <br>
   
