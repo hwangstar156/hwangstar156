@@ -5,13 +5,11 @@
 
 
 <p>
-  <em>
     <strong>⚙국민대학교 전자공학과 재학중⚙</strong> <br>
+    <b>개발 공부 4개월차⏲<br>
     <b>front-end developer 희망..😀
       
-      
-     reading📖 : 자바스크립트 딥다이브, 리액트를 다루는 기술
-  </em>  
+     Reading...📖 : 자바스크립트 딥다이브, 리액트를 다루는 기술, 리팩토링 2
 </p>
 
 ![hwangstar156's github stats](https://github-readme-stats.vercel.app/api?username=hwangstar156&show_icons=true) 
@@ -47,7 +45,7 @@
 ## Contacts 📫
 
 * Email: hwangstar156@gmail.com  
-
+* blog: [개인 블로그](jsmin.netfily.app)
   <!--<div align=center>-->  
 <br>
 <a href="https://velog.io/@baby_dev" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
