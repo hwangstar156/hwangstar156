@@ -5,9 +5,9 @@
 
 
 <p>
-    <strong>⚙국민대학교 전자공학과 2학년 재학중⚙</strong> <br>
+    <strong>⚙국민대학교 전자공학과 재학중⚙</strong> <br>
     <b>개발 공부 4개월차⏲<br>
-    <b>front-end developer 희망..😀
+    <b>미래의 front-end developer😀
       
      Reading...📖 : 자바스크립트 딥다이브, 리액트를 다루는 기술, 리팩토링 2
 </p>
