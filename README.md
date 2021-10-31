@@ -45,7 +45,8 @@
 ## Contacts 📫
 
 * Email: hwangstar156@gmail.com  
-* blog: [개인 블로그](jsmin.netfily.app)
+* velog-blog: [개인 블로그](jsmin.netfily.app)
+* 새로 이전한 블로그 : [gatsby-blog](jsmin.netfily.app)
   <!--<div align=center>-->  
 <br>
 <a href="https://velog.io/@baby_dev" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
