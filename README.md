@@ -5,13 +5,16 @@
 
 
 <p>
-    <strong>⚙국민대학교 전자공학과 재학중⚙</strong> <br>
-    <b>개발 공부 4개월차⏲<br>
-    <b>미래의 front-end developer😀
-      
-     Reading...📖 : 자바스크립트 딥다이브, 리액트를 다루는 기술, 리팩토링 2
+    <li><strong>⚙국민대학교 전자공학과 재학중⚙</strong> <br><br>
+    <li><b>개발 공부 4개월차⏲<br><br>
+    <li><b>미래의 front-end developer😀<br>   
+    
 </p>
-
+<br>
+        
+>Reading...📖 : 자바스크립트 딥다이브, 리액트를 다루는 기술, 리팩토링 2
+<br>
+        
 ![hwangstar156's github stats](https://github-readme-stats.vercel.app/api?username=hwangstar156&show_icons=true) 
 [![hwangstar156's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangstar156&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hwangstar156)
     
