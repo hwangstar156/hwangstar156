@@ -6,7 +6,7 @@
 <blockquote>
 <p>
     <li><strong>⚙국민대학교 전자공학과 재학중⚙</strong> <br><br>
-    <li><b>개발 공부 4개월차⏲<br><br>
+    <li><b>개발 공부 5개월차⏲<br><br>
     <li><b>미래의 front-end developer😀<br>   
     
 </p>
