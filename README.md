@@ -49,7 +49,6 @@
 
 * Email: hwangstar156@gmail.com  
 * velog-blog: [기존 velog 블로그](https://velog.io/@baby_dev)
-* 새로 이전한 블로그 : [개인 블로그](https://jsmin.netlify.app/)
   <!--<div align=center>-->  
 <br>
 <a href="https://velog.io/@baby_dev" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
