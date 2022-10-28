@@ -1,48 +1,32 @@
-## hwangstar156 &nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhwangstar156%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=hwangstar156's%20Github&fontSize=31)
-<br>
-        
->Reading...📖 : 자바스크립트 딥다이브, 리액트를 다루는 기술, 리팩토링 2
-<br>
-        
-![hwangstar156's github stats](https://github-readme-stats.vercel.app/api?username=hwangstar156&show_icons=true) 
-[![hwangstar156's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hwangstar156&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hwangstar156)
-    
-
-## Tech Stack🛠
-  
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=gatsby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphQl&logoColor=white"/>
-  <br>
-
-  
-#### studying...✏
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=white"/>
-
-## Online Judge 💻
-
-* BOJ: [hwangstar156](http://icpc.me/hwangstar156)
-  * solvedac: [hwangstar156](https://solved.ac/profile/hwangstar156)
-  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hwangstar156)](https://solved.ac/hwangstar156)
-
-
 ## Contacts 📫
 
 * Email: hwangstar156@gmail.com  
-* velog-blog: [기존 velog 블로그](https://velog.io/@baby_dev)
+* [블로그](https://velog.io/@baby_dev)
+* tel: 010-3942-2990
   <!--<div align=center>-->  
 <br>
-<a href="https://velog.io/@baby_dev" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="mailto:hwangstar156@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
-  
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+## Tech Stack
+
+### HTML/CSS
+- 시맨틱태그 및 웹 접근성을 지키려고 노력합니다.
+- 반응형 웹을 대응하는데 익숙합니다.
+
+### Typescript
+- 타입스크립트를 왜 사용하는지와, 타입시스템에 대해 이해를 하고 있습니다.
+- 엄격한 타입스크립트 이용을 목적으로 합니다.
+- tuple, 재귀, generic등을 이용하여 커스텀 타입을 만드는데 익숙합니다.
+
+### Webpack
+- 모듈번들러에 대한 깊은 이해를 하고 있으며 CRA 없이 직접 환경을 설정할 수 있습니다.
+- Webpack을 이용한 번들 최소화, 빌드 시간 최적화를 할 수 있습니다.
+- 현재 차세대 모듈번들러인 TurboPack에 관심이 있습니다.
+
+### Javascript
+- 기본적인 문법이외에도 ES6이후 새로 등장한 문법 혹은 변경된 명세에 대해 이해를 하고 있으며 직접 코드에 녹여낼 수 있습니다.
+- Vanilla Javascript만을 이용하여 앱을 구현할 수 있습니다.
+
+### React
+- React hooks를 사용하여 비즈니스 로직과 UI를 분리합니다.
+- React의 생명주기 및 렌더링 과정을 이해하고 있습니다.
+- 유지보수에 용이한 컴포넌트 분리 전략 및 폴더 구조를 고민합니다.
